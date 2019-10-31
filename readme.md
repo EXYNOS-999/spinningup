@@ -1,4 +1,4 @@
-**Status:** Active (under active development, breaking changes may occur)
+**Status:** Active (under active development, breaking changes may occur,tuned for AWS_DEEPRACER '19)
 
 Welcome to Spinning Up in Deep RL! 
 ==================================
